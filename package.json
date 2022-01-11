@@ -1,0 +1,20 @@
+{
+  "name": "bytebank",
+  "version": "1.0.0",
+  "description": "Projeto de um banco, para estudo de orientação objeto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JessMadok/Estudo-Orienta-o-a--Objeto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/JessMadok/Estudo-Orienta-o-a--Objeto/issues"
+  },
+  "homepage": "https://github.com/JessMadok/Estudo-Orienta-o-a--Objeto#readme"
+}
